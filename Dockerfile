@@ -1,4 +1,4 @@
-FROM: chef/chefdk
+FROM chef/chefdk
 
 RUN chef gem install knife-solo
 
